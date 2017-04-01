@@ -8,7 +8,7 @@
     "build": "ionic-app-scripts build",
     "ionic:build": "ionic-app-scripts build",
     "ionic:serve": "ionic-app-scripts serve",
-	"start": "node index.js
+	"start": "node index.js"
   },
   "dependencies": {
     "@angular/common": "2.4.8",
